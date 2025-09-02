@@ -22,7 +22,7 @@ Hello! My name is Rachel McGovern. This portfolio has been created to demonstrat
 
 
 ## Resume
-[PDF Version Coming Soon]
+[PDF Version](RachelMcGovern_ActuarialResumé.pdf)
 
 
 ## Contact
